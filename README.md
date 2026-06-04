@@ -1,2 +1,0 @@
-# yorumyap
-yorum
